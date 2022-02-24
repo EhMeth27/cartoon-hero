@@ -1,0 +1,24 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+font-size: 30px;
+color: #2cd4cc;
+}
+h2{
+font-size: 20px;
+color: red;
+}
+
+.big{
+font-size:60px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color:navy;
+}
+span{
+color:violet;
+}
