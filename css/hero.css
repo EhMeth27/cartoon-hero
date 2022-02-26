@@ -14,7 +14,8 @@ header{
 h1,h2{
     font-family: 'Press Start 2P', cursive;
 }
-
+/* header styles */
+/* control '/' to auto write comments */
 header h1{
     color:white;
     font-size: 50px;
